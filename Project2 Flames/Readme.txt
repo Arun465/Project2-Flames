@@ -8,7 +8,7 @@ one Window will Appear
 Type your Name and your Partnar Name Then Click Proceed, Result Will appear in window 
 
 
-If You Missed To type Any one Name , before click proceed message will appear
+If You Missed To type Any one Name , before click proceed ,message will appear
 
 if All letters are cancelled (stricked)  by flames ,
 
